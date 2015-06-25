@@ -1,0 +1,10 @@
+Date,Count or Adding?,Tank,Family,Ages (days:hours),Quantity (# of larvae),Est. Mortality,% Mortality,Counted Dead,% Counted dead
+6/17/2015,Adding,HC_Tank1,HC2,0-1:20,29000,,,,
+6/19/2015,Adding,SS_Tank1,"SS1,SS3",0-1:20,87850,,,,
+6/22/2015,Adding,SS_Tank1,"SS1,SS2,SS3,SS4,SS5","0-1:20, 2:20-4:16",363437.5,,,,
+6/22/2015,Adding,HC_Tank1,HC2,"0-1:20, 4:20-7:16",83600,,,,
+6/24/2015,Count,HC_Tank1,HC2,"1:20-3:16, 6:16-9:12",37587.5,46012.5,0.449611244,4500,0.1197206518
+6/24/2015,Adding,HC_Tank1,"HC2,HC3","0-3:16, 6:16-9:12",106200,,,,
+6/24/2015,Count,SS_Tank1,"SS1,SS2,SS3,SS4,SS5","1:20-3:16,4:16-6:12",167300,196137.5,0.5396732588,23550,0.1407650926
+6/24/2015,Adding,SS_Tank1,"SS1,SS2,SS3,SS4,SS5","0-3:16,4:16-6:12",169550,,,,
+6/24/2015,Adding,NF_Tank1,NF5,0-1:20,55218.75,,,,
