@@ -1,24 +1,24 @@
-Date,Family,Volume of tripour (mL),Ethanol used?,Count 1,Count 2,Count 3,Count 4,Total larvae,Notes,Dead count #1,Dead #2,Dead #3,Dead #4,Total Dead
-6/19/2015,HC2,800,no,35,37,36,37,29000,Collected Wed. 6/17 and put in 100 L tank,,,,,
-6/19/2015,SS1,700,no,41,54,93,82,47250,,,,,,
-6/19/2015,SS3,700,no,47,62,70,53,40600,,,,,,
-6/22/2015,SS5,600,yes,5,5,4,0,2100,,,,,,
-6/22/2015,HC2,700,yes,75,77,77,83,54600,,,,,,
-6/22/2015,SS3,650,yes,132,148,133,140,89862.5,,,,,,
-6/22/2015,HC4,400,yes,0,0,0,0,0,only collected small poop...,,,,,
-6/22/2015,SS4,400,yes,9,17,11,2,3900,,,,,,
-6/22/2015,SS1,600,yes,151,156,116,188,91650,,,,,,
-6/22/2015,HC5,400,yes,0,0,0,0,0,,,,,,
-6/22/2015,SS2,650,yes,142,139,135,126,88075,,,,,,
-6/24/2015,"HC3, HC2",550,yes,100,136,121,142,68612.5,"S.R. counted, mostly HC3",,,,,
-6/24/2015,"SS5,SS2,SS4,SS3",500,yes,10,3,2,3,2250,"S.R. filtered out and counted, all had few in buckets",2,4,2,6,1750
-6/24/2015,NF5,475,yes,120,106,125,114,55218.75,S.R. counted,1,2,2,0,593.75
-,,,,,,,,0,,,,,,0
-,,,,,,,,0,,,,,,0
-,,,,,,,,0,,,,,,0
-,,,,,,,,0,,,,,,0
-,,,,,,,,0,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,0
+Date,Population,Family,Volume of tripour (mL),Ethanol used?,Live Count 1,Live Count 2,Live Count 3,Live Count 4,Total larvae,Notes,Dead count #1,Dead #2,Dead #3,Dead #4,Total Dead
+6/19/2015,Dabob Bay (HC),HC2,800,no,35,37,36,37,29000,Collected Wed. 6/17 and put in 100 L tank,,,,,
+6/19/2015,Oyster Bay (SS),SS1,700,no,41,54,93,82,47250,,,,,,
+6/19/2015,Oyster Bay (SS),SS3,700,no,47,62,70,53,40600,,,,,,
+6/22/2015,Oyster Bay (SS),SS5,600,yes,5,5,4,0,2100,,,,,,
+6/22/2015,Dabob Bay (HC),HC2,700,yes,75,77,77,83,54600,,,,,,
+6/22/2015,Oyster Bay (SS),SS3,650,yes,132,148,133,140,89862.5,,,,,,
+6/22/2015,Dabob Bay (HC),HC4,400,yes,0,0,0,0,0,only collected small poop...,,,,,
+6/22/2015,Oyster Bay (SS),SS4,400,yes,9,17,11,2,3900,,,,,,
+6/22/2015,Oyster Bay (SS),SS1,600,yes,151,156,116,188,91650,,,,,,
+6/22/2015,Dabob Bay (HC),HC5,400,yes,0,0,0,0,0,,,,,,
+6/22/2015,Oyster Bay (SS),SS2,650,yes,142,139,135,126,88075,,,,,,
+6/24/2015,Dabob Bay (HC),"HC3, HC2",550,yes,100,136,121,142,68612.5,"S.R. counted, mostly HC3",,,,,
+6/24/2015,Oyster Bay (SS),"SS5,SS2,SS4,SS3",500,no,10,3,2,3,2250,"S.R. filtered out and counted, all had few in buckets",2,4,2,6,1750
+6/24/2015,Fidalgo Bay (NF),NF5,475,no,120,106,125,114,55218.75,S.R. counted,1,2,2,0,593.75
+6/25/2015,Dabob Bay (HC),"HC1,HC3, HC4",500,yes,188,181,238,190,99625,,1,0,3,1,625
+6/25/2015,Oyster Bay (SS),"SS1, SS4",575,yes,381,412,428,377,229712.5,mostly SS4,3,2,2,2,1293.75
+,,,,,,,,,0,,,,,,0
+,,,,,,,,,0,,,,,,0
+,,,,,,,,,0,,,,,,0
+,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,0
