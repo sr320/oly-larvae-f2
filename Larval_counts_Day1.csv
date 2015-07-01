@@ -1,24 +1,47 @@
-Date,Population,Family,Volume of tripour (mL),Ethanol used?,Live Count 1,Live Count 2,Live Count 3,Live Count 4,Total larvae,Notes,Dead count #1,Dead #2,Dead #3,Dead #4,Total Dead
-6/19/2015,Dabob Bay (HC),HC2,800,no,35,37,36,37,29000,Collected Wed. 6/17 and put in 100 L tank,,,,,
-6/19/2015,Oyster Bay (SS),SS1,700,no,41,54,93,82,47250,,,,,,
-6/19/2015,Oyster Bay (SS),SS3,700,no,47,62,70,53,40600,,,,,,
-6/22/2015,Oyster Bay (SS),SS5,600,yes,5,5,4,0,2100,,,,,,
-6/22/2015,Dabob Bay (HC),HC2,700,yes,75,77,77,83,54600,,,,,,
-6/22/2015,Oyster Bay (SS),SS3,650,yes,132,148,133,140,89862.5,,,,,,
-6/22/2015,Dabob Bay (HC),HC4,400,yes,0,0,0,0,0,only collected small poop...,,,,,
-6/22/2015,Oyster Bay (SS),SS4,400,yes,9,17,11,2,3900,,,,,,
-6/22/2015,Oyster Bay (SS),SS1,600,yes,151,156,116,188,91650,,,,,,
-6/22/2015,Dabob Bay (HC),HC5,400,yes,0,0,0,0,0,,,,,,
-6/22/2015,Oyster Bay (SS),SS2,650,yes,142,139,135,126,88075,,,,,,
-6/24/2015,Dabob Bay (HC),"HC3, HC2",550,yes,100,136,121,142,68612.5,"S.R. counted, mostly HC3",,,,,
-6/24/2015,Oyster Bay (SS),"SS5,SS2,SS4,SS3",500,no,10,3,2,3,2250,"S.R. filtered out and counted, all had few in buckets",2,4,2,6,1750
-6/24/2015,Fidalgo Bay (NF),NF5,475,no,120,106,125,114,55218.75,S.R. counted,1,2,2,0,593.75
-6/25/2015,Dabob Bay (HC),"HC1,HC3, HC4",500,yes,188,181,238,190,99625,,1,0,3,1,625
-6/25/2015,Oyster Bay (SS),"SS1, SS4",575,yes,381,412,428,377,229712.5,mostly SS4,3,2,2,2,1293.75
-,,,,,,,,,0,,,,,,0
-,,,,,,,,,0,,,,,,0
-,,,,,,,,,0,,,,,,0
-,,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,,0
-,,,,,,,,,,,,,,,0
+Date,Population,Family,Tank added to,Volume of tripour (mL),Vol of drop counts,Ethanol used?,Live Count 1,Live Count 2,Live Count 3,Live Count 4,Total larvae,+/-,Notes,Dead count #1,Dead #2,Dead #3,Dead #4,Total Dead
+6/19/2015,Dabob Bay (HC),HC2,HC_Tank1,800,1,no,35,37,36,37,29000,765.9416862,Collected Wed. 6/17 and put in 100 L tank,,,,,
+6/19/2015,Oyster Bay (SS),SS1,SS_Tank1,600,1,no,41,54,93,82,40500,14470.65997,,,,,,
+6/19/2015,Oyster Bay (SS),SS3,SS_Tank1,700,1,no,47,62,70,53,40600,7069.653457,,,,,,
+6/22/2015,Oyster Bay (SS),SS5,SS_Tank1,600,1,yes,6,5,5,4,3000,489.8979486,,,,,,
+6/22/2015,Dabob Bay (HC),HC2,HC_Tank1,700,1,yes,75,77,77,83,54600,2424.871131,,,,,,
+6/22/2015,Oyster Bay (SS),SS3,SS_Tank1,650,1,yes,132,148,133,140,89862.5,4816.875716,,,,,,
+6/22/2015,Dabob Bay (HC),HC4,HC_Tank1,400,1,yes,0,0,0,0,0,0,only collected small poop...,,,,,
+6/22/2015,Oyster Bay (SS),SS4,SS_Tank1,400,1,yes,9,17,11,2,3900,2473.863375,,,,,,
+6/22/2015,Oyster Bay (SS),SS1,SS_Tank1,600,1,yes,151,156,116,188,91650,17686.43548,,,,,,
+6/22/2015,Dabob Bay (HC),HC5,HC_Tank1,400,1,yes,0,0,0,0,0,0,,,,,,
+6/22/2015,Oyster Bay (SS),SS2,SS_Tank1,650,1,yes,142,139,135,126,88075,4518.941616,,,,,,
+6/24/2015,Dabob Bay (HC),"HC3, HC2",HC_Tank1,550,0.8,yes,100,136,121,142,85765.625,12866.54,"S.R. counted, mostly HC3",,,,,
+6/24/2015,Oyster Bay (SS),"SS5,SS2,SS4,SS3",SS_Tank1,500,0.8,no,10,3,2,3,2812.5,2310.528439,"S.R. filtered out and counted, all had few in buckets",2,4,2,6,1750
+6/24/2015,Fidalgo Bay (NF),NF5,NF_Tank1,475,0.8,no,120,106,125,114,69023.4375,4857.029847,S.R. counted,1,2,2,0,593.75
+6/25/2015,Dabob Bay (HC),"HC1,HC3, HC4",HC_Tank2,500,0.8,yes,188,181,238,190,124531.25,16324.94736,,1,0,3,1,625
+6/25/2015,Oyster Bay (SS),"SS1, SS4",SS_Tank2,575,0.8,yes,381,412,428,377,287140.625,17688.65021,mostly SS4,3,2,2,2,1293.75
+6/26/2015,Fidalgo Bay (NF),"NF1, NF2, NF5",NF_Tank1,700,1,yes,366,341,364,376,253225,10357.08292,"few from NF5, larvae in NF2 were mostly on bottom of bucket",5,1,10,7,4025
+6/26/2015,Dabob Bay (HC),"HC3, HC2, HC4, HC1",HC_Tank2,600,1,yes,43,52,72,76,36450,9491.575212,basically none from HC2,20,8,18,13,8850
+6/26/2015,Oyster Bay (SS),"SS2,SS4,SS5, SS1",SS_Tank2,500,1,yes,64,67,61,66,32250,1322.875656,"most from SS2,SS4",8,9,5,2,3000
+6/26/2015,Fidalgo Bay (NF),group bucket,NF_Tank1,450,1,yes,35,43,32,,12375,2558.808316,,0,0,1,,150
+6/26/2015,Oyster Bay (SS),group bucket,SS_Tank2,325,1,yes,12,22,17,,4143.75,1625,,2,2,8,,1300
+6/26/2015,Dabob Bay (HC),group bucket,HC_Tank2,200,1,yes,33,25,40,,4900,1501.1107,,0,0,2,,133.3333333
+6/29/2015,Oyster Bay (SS),SS3,SS_Tank2,550,1,yes,126,133,169,166,81675,12187.18589,,8,16,9,10,5912.5
+6/29/2015,Oyster Bay (SS),SS2,SS_Tank2,400,1,yes,110,135,93,118,45600,6981.881313,,7,17,16,17,5700
+6/29/2015,Oyster Bay (SS),SS1,SS_Tank2,450,1,yes,109,122,118,124,53212.5,2993.430307,,3,5,3,2,1462.5
+6/29/2015,Oyster Bay (SS),SS4,SS_Tank2,750,1,yes,198,192,190,177,141937.5,6634.427255,,15,7,9,10,7687.5
+6/29/2015,Dabob Bay (HC),HC5,HC_Tank2,875,1,no,106,92,107,116,92093.75,8673.099576,,0,1,0,1,437.5
+6/29/2015,Dabob Bay (HC),HC4,HC_Tank2,850,1,no,133,117,148,146,115600,12160.24945,,1,1,1,3,1275
+6/29/2015,Dabob Bay (HC),HC2,HC_Tank2,550,1,no,27,23,22,14,11825,2995.69135,,1,0,2,1,550
+6/29/2015,Dabob Bay (HC),HC3,HC_Tank2,450,1,no,25,12,28,19,9450,3181.980515,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,#DIV/0!,#DIV/0!,,,,,,0
+,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,0
